@@ -1,1 +1,1 @@
-My first readme
+this course is now getting better
